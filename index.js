@@ -1,6 +1,6 @@
 
 var styles = [
-  'webkitTransform',
+  'WebkitTransform',
   'MozTransform',
   'msTransform',
   'OTransform',
